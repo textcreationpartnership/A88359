@@ -1,0 +1,282 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of the prisoners taken, and those that were slain by Collonell Horton in South-Wales. And an ordinance of the Lords and Commons in Parliament assembled. For setling the militia, and raising of forces for suppressing all rebellions and insurrections in the counties of Gloucester, Monmouth, Brecon, and Glamorgan. And for the better securing, and safety of the Parliament, and the said counties.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88359</idno>
+            <idno type="STC">Wing L2498</idno>
+            <idno type="STC">Thomason E441_33</idno>
+            <idno type="STC">ESTC R204945</idno>
+            <idno type="EEBO-CITATION">99864392</idno>
+            <idno type="PROQUEST">99864392</idno>
+            <idno type="VID">116620</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88359)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116620)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E441[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of the prisoners taken, and those that were slain by Collonell Horton in South-Wales. And an ordinance of the Lords and Commons in Parliament assembled. For setling the militia, and raising of forces for suppressing all rebellions and insurrections in the counties of Gloucester, Monmouth, Brecon, and Glamorgan. And for the better securing, and safety of the Parliament, and the said counties.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>3, 2-5, 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Ibbitson in Smithfield, neere the Queens-head Tavern,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes a letter dated and signed on p.5: 8 May, 1648. Tho. Horton.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Horton, Thomas, d. 1649 --  Early works to 1800.</term>
+               <term>St. Fagans (Wales), Battle of, 1648 --  Early works to 1800.</term>
+               <term>Prisoners of war --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Militia --  Early works to 1800.</term>
+               <term>Wales --  History --  1536-1700 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116620:1" rendition="simple:additions"/>
+            <p>A LIST OF THE Priſoners taken, and thoſe that were ſlain by Collonell <hi>Horton</hi> in <hi>South-Wales.</hi> AND An Ordinance of the Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament Aſſembled.</p>
+            <p>For ſetling the Militia, and raiſing of Forces for ſuppreſſing all Rebellions and Inſurrections in the Counties of <hi>Glouceſter, Monmouth, Brecon,</hi> and <hi>Glamorgan.</hi> AND For the better ſecuring, and ſafety of the Parliament, and the ſaid Counties.</p>
+            <p>Die Veneris 12. May. 1648.</p>
+            <p>
+               <hi>REſolved by the Lords and Commons in Parliament Aſſembl<g ref="char:EOLhyphen"/>ed, That</hi> Wedneſday <hi>next be appointed for a day of publique thankeſgiving to Almighty God, for h<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> great mercy and bleſsing in giv<g ref="char:EOLhyphen"/>ing ſo great and ſeaſonable a Victory to the Parliaments Forces; under the Command of Colonell</hi> Horton, <hi>over all the Forces of the Enemy in</hi> South-Wales, <hi>on</hi> Munday <hi>the</hi> 8 <hi>of this inſtant</hi> May 1648<g ref="char:punc">▪</g> 
+               <hi>To bee obſerved within the City of </hi>London <hi>and Liberties thereof<g ref="char:punc">▪</g> late lines of Communication, and weekely Bills of, Mortality; And that the Lord Mayor be deſired to give timely notice hereof, to all the Miniſters with<g ref="char:EOLhyphen"/>in the places aforeſaid.</hi>
+            </p>
+            <p>Joh Brown Cler. Parliamentorum</p>
+            <p>Printed at <hi>London</hi> by <hi>Robert Ibbitſon</hi> in <hi>Smithfield,</hi> neere the Queens-head Tavern. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb n="2" facs="tcp:116620:2"/>
+            <head>Die Veneris <hi>12</hi> May <hi>1648.</hi>
+            </head>
+            <p>BE it Ordained, and it is ordained by the Lords &amp; Commons Aſſembled in Par<g ref="char:EOLhyphen"/>liament, That theſe perſons following, (<hi>viz</hi>) For the County of <hi>Glouceſter, William</hi> Lord Viſcount Say and Seal, <hi>James Fienes</hi> Eſquire, Sir <hi>John Seymor</hi> Knight, <hi>Nathaniell Stephens, Edward Stephens, John Stephens, Thomas Hod<g ref="char:EOLhyphen"/>ges, Thomas Pury</hi> Eſquires; Sir <hi>Giles Overbury</hi> Knight, <hi>William Leigh, Richard Aylworth, Job Deighton, John Barnard</hi> Eſquires, <hi>Robert Wa<g ref="char:EOLhyphen"/>terworth</hi> Gent. <hi>Silvanus Wood, John Fetti<g ref="char:EOLhyphen"/>place, Robert Oldeſworth</hi> Eſquires, <hi>Richard Ste<g ref="char:EOLhyphen"/>phens, Stephen Fowler</hi> Gent. <hi>Thomas Eſcourt, William Shephard, John Codrington, Samuel Cod<g ref="char:EOLhyphen"/>rington, Thomas Stephens, William Stafford, Mat<g ref="char:EOLhyphen"/>thew Huntley, Anthony Kingſcote, Richard Yate<g ref="char:punc">▪</g> William Cooke, Thomas Iames</hi> Eſquires; <hi>Iames Hawkins</hi> Gent. <hi>William Browne</hi> 
+               <abbr>Eſq</abbr> Col. <hi>Iohn Barrow,</hi> Col. <hi>Robert Kyrle,</hi> Lieutenant Collonell <hi>Daniel Dobbins,</hi> and <hi>George Ken,</hi> Eſquire, For the City and County of the Ci<g ref="char:EOLhyphen"/>ty of <hi>Glouceſter,</hi> the Major, Recorder and Sheriffes of the City of <hi>Glouceſter,</hi> for the
+<pb n="3" facs="tcp:116620:2"/>time being, <hi>John Brewſter, William Singleton, William Capell, Thomas Hill, Thomas Pury, Den<g ref="char:EOLhyphen"/>nis Wife, Luke Nurſe, John Maddox, Henry Cugley, James Stephens,</hi> Aldermen; <hi>Iohn Len<g ref="char:EOLhyphen"/>thall, Iohn Dorney, Robert Kirle, Iohn Hanbury, Silvanus VVood, VVilliam Sheppard, Evan Soize</hi> Eſquires, and <hi>Thomas Pury</hi> jun: Gent: For the County of <hi>Monmouth, Philip</hi> Earle of <hi>Pembrooke</hi> and <hi>Mountgomery, Iohn Herbert</hi> E<g ref="char:EOLhyphen"/>ſquire, Sir <hi>Trevor Williams</hi> Barronet, <hi>Tho<g ref="char:EOLhyphen"/>mas Morgan,</hi> Collonell <hi>VVilliam Herbert, Hen<g ref="char:EOLhyphen"/>ry Herbert, VVilliam Morgan, Edward Morgan,</hi> Collonell <hi>Thomas Herbert,</hi> Collonell <hi>Thomas Hughes, Thomas Pury</hi> jun. <hi>William Iones, Wil<g ref="char:EOLhyphen"/>liam Baker, Henry Baker, Iohn Parry, Iohn Walter, Chriſtopher Katchmey, VVilliam Bleth<g ref="char:EOLhyphen"/>ing, Iohn Hanbury, Roger Williams, William Packer,</hi> and <hi>Rice Williams</hi> Eſquires: For the County of <hi>Brecon, Howel Guin</hi> of <hi>Lan<g ref="char:EOLhyphen"/>braine, Iohn Walbief, Edward Ramſey, Edmond Ganies, Thomas Lewes, Thomas Williams, Tho<g ref="char:EOLhyphen"/>mas Price, William Watkins,</hi> and <hi>Lewis Iones</hi> Eſquires: For the County of <hi>Glamorgan, Philip</hi> Earl of <hi>Pentbrook</hi> and <hi>Mountgomery, Phi<g ref="char:EOLhyphen"/>lip</hi> Lord <hi>Herbert, Algernon Sidney, Walter Stoickland, Buſſey Manſel, Edward Brichard; Michael Oldeſworth, Evan Soyſe, Humphrey
+<pb n="2" facs="tcp:116620:3"/>Windham, Thomas Carne,</hi> Collonell <hi>VVilliam Herbert, Edward Stradling,</hi> Collonell <hi>Philip Iones, Iohn Herbert, Thomas Spencer, Richard Iones, Iohn Price,</hi> and <hi>Rowland Dawkins</hi> Eſquires ſhall be Committees for the Militia reſpe<g ref="char:EOLhyphen"/>ctively in the ſeverall and reſpective Counties o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Glouceſter</hi> and <hi>Monmouth,</hi> The City, and County of the City of <hi>Glouceſter Brecon</hi> &amp; <hi>Gla<g ref="char:EOLhyphen"/>morgan,</hi> for the better ſecuring, and ſafety of the Parliament, and the ſaid Counties.</p>
+            <p>And ſhall have power and authority, and are hereby authorized by themſelves, or any three of them in the ſaid ſeverall Counties, and places reſpectively to put the ſaid Coun<g ref="char:EOLhyphen"/>ties &amp; places, into a poſture of defence, and to raiſe Forces, Horſe and Foot, and them to liſt, arme and exerciſe, and to forme them into Regiaments, Troops and Companies, and them to muſter, array and weapon from time to time in places fit for that purpoſe, and to appoint over them Colonels, Cap<g ref="char:EOLhyphen"/>tains and other Officers from time to time, by Commiſſions under the Hands and Seals of the ſaid ſeverall and reſpective Commit<g ref="char:EOLhyphen"/>tees, or any ſeaven of them, in the reſpective Counties aforeſaid, as often as there ſhalbe
+<pb n="3" facs="tcp:116620:3"/>occaſion in that behalfe, And ſhal have pow<g ref="char:EOLhyphen"/>er, and are hereby authorized by themſelves, or their ſaid Commanders, and Officers to lead, conduct, and imploy the ſaid Perſons arrayed, and weaponed for the ſuppreſſion of all Rebellions and Inſurrections that ſhal or may happen within the Counties and Pla<g ref="char:EOLhyphen"/>ces aforeſaid, according as the ſaid Com<g ref="char:EOLhyphen"/>mittees reſpectively ſhall from time to time give directions, or ſhall be otherwiſe direct<g ref="char:EOLhyphen"/>ed from time to time by the Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament Aſſembled, Or the Committee ſitting at <hi>Darby</hi> houſe, Any for<g ref="char:EOLhyphen"/>mer Order, Declaration, or other matter to the contrary hereof in any wiſe notwith<g ref="char:EOLhyphen"/>ſtanding, And for all, and every their doing herein, the ſaid reſpective Committees, and all and every the ſaid Perſon and Per<g ref="char:EOLhyphen"/>ſons ſhall be ſaved harmeleſſe, and indemp<g ref="char:EOLhyphen"/>nified by the authority of Parliament. Pro<g ref="char:EOLhyphen"/>vided that this Ordinance, and every thing therein contained ſhall continue for the ſpace of ſix Monthes, and no longer.</p>
+            <closer>
+               <signed>Hen. Elſynge Cler. Par. Dom. Com.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:116620:4"/>
+            <head>To the Right Honourable the Earle of <hi>Mancheſter,</hi> Speaker of the Houſe of Peers, <hi>pro tempore.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>GOd hath this day rewarded our weari<g ref="char:EOLhyphen"/>ſome Marches with a full and glorious Victory over and Enemy who had uſed much ſubtilty and diligence to engage the King<g ref="char:EOLhyphen"/>dome in a new War; they had increaſed to a great number by the addition of divers diſ<g ref="char:EOLhyphen"/>banded men from <hi>England,</hi> and a generall conjunction of moſt of able bodied Inha<g ref="char:EOLhyphen"/>bitants of the Counties of <hi>Pembrook, Cvr<g ref="char:EOLhyphen"/>marthen,</hi> and <hi>Cardigan,</hi> and many of <hi>Glamor<g ref="char:EOLhyphen"/>gan.</hi> This day about nine of the Clocke it pleaſed God that wee ingaged with them at a place called Saint <hi>Fagons,</hi> three miles diſtant from <hi>Cardiffe,</hi> and for neare two hours had a very hot diſpute, but at length by Gods mercy they were put to a totall rout, many ſlaine upon the place, and about three thou<g ref="char:EOLhyphen"/>ſand Priſoners, great ſtore of Armes and Ammunition, and many Coulours; The Enemy accounted themſelves eight thou<g ref="char:EOLhyphen"/>ſand Horſe and Foot, which makes the mercy more remarkable.</p>
+            <p>My Lord, The Almighty was pleaſed
+<pb n="5" facs="tcp:116620:4"/>greatly to ſtrengthen both our Officers and Souldiers, in the diſcharge of their duties with much reſolution and cheerfulneſſe, but with one heart they deſire, that the honour of this worke may bee wholly given to God. This account I held my ſelf bound to preſent your Lordſhips with, to bee communicat<g ref="char:EOLhyphen"/>ed to the Right Honourable the Houſe of Peeres, being</p>
+            <closer>
+               <signed>
+                  <hi>My Lord: Your moſt humble and faithful Servant</hi> Tho. Horton.</signed>
+               <dateline>In the Field neer S. <hi>Fagons</hi> 
+                  <date>8 <hi>May,</hi> 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="list">
+            <list>
+               <head>Taken Priſoners by Colonell <hi>Horton.</hi>
+               </head>
+               <item>Major Gen. <hi>John Stradling.</hi>
+               </item>
+               <item>
+                  <hi>Laughorns</hi> Quartermaſter gen.</item>
+               <item>
+                  <hi>Laughorns</hi> Commiſſary gen.</item>
+               <item>12 Gentlemen that were to have had Commiſſions to at<g ref="char:EOLhyphen"/>tend at the head-Quarters.</item>
+               <item>Collonell <hi>Harris,</hi>
+               </item>
+               <item>Col. <hi>Phillip Sammage,</hi> of <hi>New<g ref="char:EOLhyphen"/>caſtle.</hi>
+               </item>
+               <item>Col. <hi>Rith. Grime.</hi>
+               </item>
+               <item>Col. <hi>Howel Gamis.</hi>
+               </item>
+               <item>Severall other Collonels, that had not received their Com<g ref="char:EOLhyphen"/>miſſions.</item>
+               <item>Lieut. Col. <hi>Wogan</hi> of <hi>Pembrook.</hi>
+               </item>
+               <item>Lieut. Col. <hi>Lewis</hi> of <hi>Redla.</hi>
+               </item>
+               <item>Lieu Col <hi>Hodskin</hi> of the <hi>Foreſt</hi>
+               </item>
+               <item>Major <hi>Phillips,</hi>
+               </item>
+               <item>Major <hi>Dawkins,</hi>
+               </item>
+               <item>Major <hi>Stedman,</hi>
+               </item>
+               <item>Major <hi>Chriſtopher Matthews</hi> of <hi>St. Anall.</hi>
+               </item>
+               <item>Capt. <hi>Matthew.</hi>
+               </item>
+               <item>Capt. <hi>Will: Batton,</hi>
+               </item>
+               <item>Capt. <hi>Rich: Cradack.</hi>
+               </item>
+            </list>
+            <p>Beſides divers others, whoſe names are not yet brought in. <hi>(viz.)</hi>
+            </p>
+            <pb n="8" facs="tcp:116620:5"/>
+            <list>
+               <item>80 Collonels, Lieutenant Co<g ref="char:EOLhyphen"/>lonels, Majors, Captaines, and Lieutenants.</item>
+               <item>70 Inſeriour Officers.</item>
+               <item>Doctor <hi>Lloyd,</hi>
+               </item>
+               <item>Severall other Malignant Min.</item>
+               <item>Mr. <hi>Marmaduke Lloyd,</hi> Sir <hi>Mar<g ref="char:EOLhyphen"/>maduke Lloyds</hi> Son.</item>
+               <item>Mr. <hi>Hugh Lloyd,</hi>
+               </item>
+               <item>Mr. <hi>James Walcot,</hi>
+               </item>
+               <item>Mr. <hi>Walter Lloyd.</hi>
+               </item>
+               <item>Mr. <hi>George Anderſon,</hi>
+               </item>
+               <item>Mr. <hi>Roger Gamis,</hi>
+               </item>
+               <item>Mr. <hi>VValter Powel,</hi>
+               </item>
+               <item>Mr. <hi>Edward Gamis,</hi>
+               </item>
+               <item>Mr. <hi>Roger VVilliams,</hi>
+               </item>
+               <item>Mr. <hi>Deavoreux Grafton.</hi>
+               </item>
+               <item>250 Gentlemen and Refor<g ref="char:EOLhyphen"/>mado Officers.</item>
+               <item>2600 Common Souldiers,</item>
+               <item>4000 Clubmen diſperſed to their ſeverall habitations.</item>
+               <item>350 Armes broken &amp; whole.</item>
+               <item>50 Coullours, and ſtandards.</item>
+               <item>360 Horſe,</item>
+               <item>All their Ammunition, bagge and baggage.</item>
+            </list>
+            <list>
+               <head>Slain of the <hi>Welch.</hi>
+               </head>
+               <item>Lieut. Col. <hi>Thomas Laughorne,</hi>
+               </item>
+               <item>Lieut. Col. <hi>Howel.</hi>
+               </item>
+               <item>Major <hi>Buſſey.</hi>
+               </item>
+               <item>Major <hi>Evan Thomas,</hi>
+               </item>
+               <item>Major <hi>Smith.</hi>
+               </item>
+               <item>Captain <hi>Turburvill</hi> a Papiſt.</item>
+               <item>Capt. <hi>Powel</hi> of <hi>Lantrade,</hi>
+               </item>
+               <item>40 Officers more,</item>
+               <item>150 Common Souldiers,</item>
+               <item>Gen. <hi>Laughorn</hi> wounded &amp; fled</item>
+               <item>Col<g ref="char:punc">▪</g> 
+                  <hi>Powel</hi> fled with 100 horſe</item>
+               <item>Col. <hi>Poyer</hi> keeps <hi>Pembrook ca<g ref="char:EOLhyphen"/>ſtle</hi> with 100 men.</item>
+            </list>
+         </div>
+         <div type="declaration">
+            <head>Die Veneris May <hi>12. 1648.</hi>
+            </head>
+            <p>REſolved by the Lords and Commons in Parliament Aſſembled, That <hi>Wedneſday</hi> next be appointed for a day of publique thankſgiving to Almighty God, for his great mercy and bleſſing, in giving ſo great and ſeaſonable a Victory to the Parliaments Forces under the Command of Colonel <hi>Horton,</hi> over al the Forces of the Enemy in <hi>South-Wales</hi> on <hi>Munday</hi> the 8 of this inſtant <hi>May</hi> 1648 to be obſer<g ref="char:EOLhyphen"/>ved within the City of <hi>London</hi> and Liberties, thereof, late Lines of Communication and weekly Bills of Mortality. And that the Lord Mayor be deſired to give timely notice hereof to all the Miniſters within the places af<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reſaid.</p>
+            <closer>
+               <signed>John Browne Cler. Parliamentorum<g ref="char:punc">▪</g>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
